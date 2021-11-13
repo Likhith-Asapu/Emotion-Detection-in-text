@@ -1,0 +1,142 @@
+<tweet>
+I	ENG 
+am	ENG
+happy 	ENG
+loooool	ENG
+😀	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+LOVE 	ENG
+YOU	ENG
+😘	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am	ENG
+happy	ENG
+our	HIN
+mai	HIN
+khush	HIN
+hu	HIN
+😅	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+very 	ENG
+happy	ENG	
+😂😂	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+😊😂	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+🙃	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+🙂	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+😃	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+!?	OTH
+happy	ENG
+😆	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+🙁	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+😔🙁	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+😩	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+😫	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+angry	ENG
+😡😡😡	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+AM 	ENG
+ANGRY	ENG
+🤬	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+AM 	ENG
+ANGRY	ENG
+😤	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+AM 	ENG
+ANGRY	ENG
+😠	OTH
+<emotion> Anger </emotion>
+</tweet>
