@@ -1,0 +1,3948 @@
+<tweet>
+    @aajtak	OTH
+    IPL	OTH
+    ban	ENG
+    hona	HIN
+    chahiye	HIN
+    🤬	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Ek	HIN
+    ICC	HIN
+    trophy	ENG
+    nahi	HIN
+    jeete	HIN
+    under	ENG
+    his	ENG
+    captaincy	ENG
+    or	HIN
+    ipl	OTH
+    bhi.	HIN
+    Haaro	HIN
+    to	HIN
+    haaro	HIN
+    upper	HIN
+    se	HIN
+    attitude	ENG
+    bhi	HIN
+    saho.	HIN
+    Desh	HIN
+    ko	ENG
+    pal	ENG
+    raha	HIN
+    hai	HIN
+    aisa	HIN
+    lagta	HIN
+    hai.	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Bcci	OTH
+    ko	OTH
+    kuch	HIN
+    action	ENG
+    lena	HIN
+    chahiye	HIN
+    ..	OTH
+    😡😡	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @TituTweets_	OTH
+    If	ENG
+    ipl	OTH
+    ke	HIN
+    liye	HIN
+    bol	HIN
+    bhi	HIN
+    de	HIN
+    toh	HIN
+    bhi	HIN
+    kuch	HIN
+    nhi	HIN
+    hona	HIN
+    😂😭	OTH
+    ,	OTH
+    ipl	OTH
+    2019	OTH
+    mei	HIN
+    unsold	ENG
+    tha	HIN
+    ,	OTH
+    2nd	OTH
+    go	ENG
+    mei	HIN
+    mi	ENG
+    ne	ENG
+    liya	HIN
+    ,	OTH
+    2	OTH
+    matches	ENG
+    mei	HIN
+    1	OTH
+    50	OTH
+    bhi	HIN
+    phir	HIN
+    bhi	HIN
+    nhi	HIN
+    khilaya	HIN
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    road	ENG
+    safety	ENG
+    ke	HIN
+    liye	HIN
+    hype	HIN
+    bilkul	HIN
+    bkwass	HIN
+    hai	HIN
+    ,	OTH
+    sab	HIN
+    khelte	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Punjab	OTH
+    ke	HIN
+    liye	HIN
+    vapas	HIN
+    khelna	HIN
+    useless	ENG
+    hai	HIN
+    ,	OTH
+    bekar	HIN
+    ki	HIN
+    hype	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @mrkramzan22	OTH
+    @ICC	OTH
+    Mujhe	HIN
+    aapse	HIN
+    ladne	HIN
+    ka	ENG
+    shukh	HIN
+    nahi	HIN
+    hai	HIN
+    mai	HIN
+    bas	HIN
+    Itna	HIN
+    Kahan	HIN
+    chahti	HIN
+    hu	HIN
+    ki	HIN
+    IPl	HIN
+    iss	HIN
+    saal	HIN
+    nahi	HIN
+    aaya	HIN
+    hai	HIN
+    wo	ENG
+    Pichle	HIN
+    12	OTH
+    -	OTH
+    13	OTH
+    Year	ENG
+    se	HIN
+    ho	HIN
+    Raha	HIN
+    hai	HIN
+    or	HIN
+    India	OTH
+    Pichle	HIN
+    7	OTH
+    -	OTH
+    8	OTH
+    Year	ENG
+    se	HIN
+    har	HIN
+    ICC	OTH
+    tournament	ENG
+    me	HIN
+    Final	ENG
+    Ya	HIN
+    Semifinal	ENG
+    me	HIN
+    Rahi	HIN
+    hai	HIN
+    to	HIN
+    ek	HIN
+    kharab	HIN
+    WC	OTH
+    se	HIN
+    na	HIN
+    Team	ENG
+    kharab	HIN
+    hoti	ENG
+    hai	HIN
+    aur	HIN
+    na	HIN
+    hi	HIN
+    IPl	OTH
+    ka	HIN
+    standard	ENG
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @syedfrz	OTH
+    @GrowthPer	OTH
+    @ali_warraichh	OTH
+    @hassam_sajjad	OTH
+    @vikrantgupta73	OTH
+    Bolta		HIN
+    to	HIN
+    hu	HIN
+    imran	OTH
+    ko	ENG
+    bheekh	HIN
+    mat	HIN
+    mango	HIN
+    humse	HIN
+    udhar	HIN
+    hi	HIN
+    lelo	HIN
+    magar	HIN
+    fir	HIN
+    bhi	HIN
+    turkey	OTH
+    china	OTH
+    Saudi	OTH
+    IMF	OTH
+    ke	HIN
+    pass	ENG
+    bheek	HIN
+    mangte	HIN
+    firta	HIN
+    hai	HIN
+    ,	OTH
+    or	HIN
+    ek	HIN
+    hum	HIN
+    hai	HIN
+    jo	HIN
+    2	OTH
+    billion	ENG
+    dollars	ENG
+    ki	HIN
+    do	HIN
+    team	ENG
+    ipl	OTH
+    me	HIN
+    bech	HIN
+    ke	HIN
+    bethe	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @LoyalSachinFan	OTH
+    Bhai	HIN
+    time	ENG
+    hai?	HIN
+    Ek	HIN
+    din	HIN
+    dekhilo	HIN
+    sirf	HIN
+    IPL	OTH
+    hoga	HIN
+    ,	OTH
+    abhi	HIN
+    se	HIN
+    Indian	OTH
+    team	ENG
+    ka	HIN
+    interest	ENG
+    khatam	HIN
+    dikh	HIN
+    raha	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @usama_xxo	OTH
+    Aapko	HIN
+    bhi	HIN
+    Semis	ENG
+    ke	HIN
+    liye	HIN
+    bhai	HIN
+    ❤️	OTH
+    ham	HIN
+    to	ENG
+    aa	ENG
+    rahe	HIN
+    hai	HIN
+    return	ENG
+    IPL	OTH
+    khelege	HIN
+    ab	HIN
+    😂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Yeh	HIN
+    Kinnar	HIN
+    Bahu		HIN
+    ki	HIN
+    maa	HIN
+    @iamkamyapunjabi	OTH
+    Congressi	HIN
+    kya	HIN
+    karne	HIN
+    aayi	HIN
+    thi	HIN
+    #BB15	OTH
+    mein?😂😂	HIN
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    Kya	HIN
+    hi	HIN
+    matlab	HIN
+    loye	HIN
+    lage	HIN
+    hain	HIN
+    Rahul	OTH
+    Gandh	OTH
+    ki	HIN
+    Congress	OTH
+    ke	HIN
+    ki	HIN
+    uski	HIN
+    ek	HIN
+    party	ENG
+    member	ENG
+    BB	OTH
+    aa	HIN
+    jaati	HIN
+    hai	HIN
+    harr	HIN
+    saal	HIN
+    jaise	HIN
+    IPL	OTH
+    ho	HIN
+    😂😂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @mufaddal_vohra	OTH
+    Are	HIN
+    bhai	HIN
+    kis	HIN
+    teams	ENG
+    se	HIN
+    ummid	HIN
+    laga	HIN
+    rahe	HIN
+    ho	HIN
+    ...	OTH
+    Inko	HIN
+    bas	HIN
+    IPL	OTH
+    me	HIN
+    khelana	HIN
+    aata	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Being_Humor	OTH
+    Woh	HIN
+    toh	HIN
+    honge	HIN
+    hi	HIN
+    naa	HIN
+    ...	OTH
+    IPL	OTH
+    ka	HIN
+    craze	ENG
+    aur	HIN
+    ISL	HIN
+    ke	HIN
+    beech	ENG
+    fark	HIN
+    samjho.	HIN
+    Arrogance	ENG
+    is	ENG
+    inevitable	ENG
+    .	OTH	
+    ISL	OTH
+    mein	OTH
+    Match	ENG
+    dekhne	HIN
+    ko	HIN
+    bulana	HIN
+    padta	HIN
+    hai	HIN
+    logo	HIN
+    ko.	HIN
+    Hate	ENG
+    kohli	OTH
+    to	ENG
+    the	ENG
+    core	ENG
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @alphatodeltaa	OTH
+    Nehi	HIN
+    bhai	HIN
+    ayse	HIN
+    nehi	HIN
+    hota	HIN
+    ipl	OTH
+    se	HIN
+    sidha	HIN
+    dalne	HIN
+    ki	HIN
+    wajha	HIN
+    se	HIN
+    hum	HIN
+    spin	ENG
+    attack	ENG
+    bhi	HIN
+    thik	HIN
+    se	HIN
+    nehi	HIN
+    kar	HIN
+    paa	HIN
+    rahe	HIN
+    hay	HIN
+    varun	OTH
+    aur	HIN
+    ishan	OTH
+    ka	HIN
+    selection	ENG
+    sahi	HIN
+    nehi	HIN
+    tha	HIN
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Sportskeeda	OTH
+    World	ENG
+    ke	HIN
+    number	ENG
+    1	OTH
+    team	ENG
+    hoke	HIN
+    ghanta	HIN
+    kuch	HIN
+    nahi	HIN
+    ukhad	HIN
+    paye	HIN
+    inko	HIN
+    kya	HIN
+    hain	HIN
+    paise	HIN
+    jada	HIN
+    mil	ENG
+    gaya	HIN
+    ipl	OTH
+    main	ENG
+    tabhi	HIN
+    desh	HIN
+    ke	HIN
+    liya	HIN
+    performance	ENG
+    nahi	HIN
+    deta	HIN
+    bosdika	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @rohanduaT02		OTH
+    Abhi	HIN
+    kohli	OTH
+    ke	HIN
+    Pakistan	OTH
+    ke	HIN
+    fan	ENG
+    ayege	HIN
+    or	HIN
+    copy	ENG
+    paste	ENG
+    marege	HIN
+    ki	HIN
+    kohli	OTH
+    we	ENG
+    are	ENG
+    with	ENG
+    you	ENG
+    ek	HIN
+    bar	ENG
+    ipl	OTH
+    me	ENG
+    mumbai	OTH
+    me	HIN
+    crowd	ENG
+    ne	ENG
+    kohli	OTH
+    ke	HIN
+    isi	HIN
+    attitude	ENG
+    ki	HIN
+    vjh	HIN
+    se	HIN
+    bhut	HIN
+    hooting	HIN
+    ki	HIN
+    thi	HIN
+    .	OTH
+    par	HIN
+    ye	ENG
+    banda	ENG
+    woke		ENG
+    ban	HIN
+    gya	HIN
+    jo	HIN
+    hmesha	HIN
+    logo	HIN
+    ko	HIN
+    bura	HIN
+    bolta	HIN
+    h	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Im_Perfect45	OTH
+    @ICC	OTH
+    #IPL	OTH
+    k	HIN
+    Ghodon	HIN
+    ki	HIN
+    halat	HIN
+    #152/0	OTH
+    😂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @wristyy_flick	OTH
+    Ye	HIN
+    log	HIN
+    bas	HIN
+    IPL	OTH
+    aur	HIN
+    ICC	OTH
+    tournament	ENG
+    dekh	HIN
+    ke	HIN
+    era	ENG
+    judge	ENG
+    karte	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @ndrobabu	OTH
+    @Rahul_legend3	OTH
+    @kamaalrkhan	OTH
+    Haan	HIN
+    Sunil		OTH
+    Gavasker	OTH
+    to	HIN
+    mujh	HIN
+    se	ENG
+    bhi	HIN
+    bara	HIN
+    jahil	HIN
+    hai	HIN
+    ...	OTH
+    keh	HIN
+    raha	HIN
+    IPL	OTH
+    main	ENG
+    maza	ENG
+    world	ENG
+    cup	ENG
+    main	HIN
+    nahi	HIN
+    ...	OTH
+    bhag	HIN
+    bc	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @QASIM_KHAN_19	OTH
+    @Nishwins1	OTH
+    @ESPNcricinfo	OTH
+    Bol	HIN
+    kaun	HIN
+    ho	HIN
+    rha	HIN
+    hai??	HIN
+    😂😂😂	OTH
+    bhikhari	HIN
+    PM	ENG
+    ka	HIN
+    andpadh	HIN
+    gawar	HIN
+    pakistani	ENG
+    ..	OTH
+    Acchha	HIN
+    sun	HIN
+    ,	OTH
+    hamare	HIN
+    yahan	ENG
+    ek	HIN
+    IPL	OTH
+    ki	HIN
+    team	ENG
+    7k	ENG
+    crore	ENG
+    me	HIN
+    gyi	HIN
+    hai	HIN
+    ...	OTH
+    Itna	HIN
+    tumhara	HIN
+    defence	ENG
+    budget	ENG
+    bhi	HIN
+    nahi	HIN
+    hoga	HIN
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @QASIM_KHAN_19	OTH
+    @Nishwins1	OTH
+    @ESPNcricinfo	OTH
+    Tera	HIN
+    Imran	OTH
+    katora	HIN
+    le	HIN
+    kar	HIN
+    bheekh	HIN
+    maangta	HIN
+    rehta	HIN
+    hai	HIN
+    &	ENG
+    amp	HIN
+    ;	OTH
+    Tu	ENG
+    hamari	HIN
+    aukaat	HIN
+    ki	HIN
+    baat	HIN
+    kar	HIN
+    rha	HIN
+    hai..	HIN
+    Jitne	HIN
+    hamare	HIN
+    IPL	OTH
+    ki	HIN
+    market	ENG
+    value	ENG
+    hai	HIN
+    ,	OTH
+    utni	HIN
+    tumhari	HIN
+    GDP	OTH
+    bhi	HIN
+    nahi	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @BhairiShiva	OTH
+    @WaseemHayder12		OTH
+    @suhel	OTH
+    @darensammy88	OTH
+    yeh	HIN
+    ghour	HIN
+    se	HIN
+    dekh	HIN
+    kon	HIN
+    ha	HIN
+    baap	HIN
+    🤣🤣😅😂	OTH
+    jao	HIN
+    jaa	HIN
+    kr	HIN
+    ipl	OTH
+    khelo	HIN
+    beta	HIN
+    abhi	HIN
+    international	ENG
+    k	HIN
+    liye	HIN
+    tum	HIN
+    bachy	HIN
+    ho	HIN
+    https://t.co/3Xx6jLEI2g	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @kaushal_13_	OTH
+    Match	ENG
+    day	ENG
+    pe	HIN
+    bhi	HIN
+    aajkal	HIN
+    kuchh	HIN
+    khaas	HIN
+    rehti	HIN
+    nahi	HIN
+    TL	HIN
+    😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    IPL	OTH
+    ke	HIN
+    time	ENG
+    pe	HIN
+    mast	HIN
+    rehti	HIN
+    thi	HIN
+    !	OTH
+    😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @JayAlodariya_	OTH
+    Yar	HIN
+    jay	OTH
+    ye	HIN
+    wahi	HIN
+    khilari	HIN
+    sab	HIN
+    hai	HIN
+    na	HIN
+    jo	HIN
+    ipl	OTH
+    khel	HIN
+    rahe	HIN
+    the	HIN
+    ya	HIN
+    fir	HIN
+    change	ENG
+    kar	HIN
+    diya	HIN
+    gae	HIN
+    hai	HIN
+    😢	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Ipl	OTH
+    ke	HIN
+    waqt	HIN
+    hi	HIN
+    mujhy	HIN
+    pta	HIN
+    tha	ENG
+    T20	OTH
+    hath	HIN
+    se	HIN
+    ja	HIN
+    rhi	HIN
+    lekin	HIN
+    logo	HIN
+    ko	HIN
+    bura	HIN
+    lga	HIN
+    or	HIN
+    block	ENG
+    kr	HIN
+    gye.	HIN
+    Ab	HIN
+    india	OTH
+    ke	HIN
+    liye	HIN
+    nhi	HIN
+    ipl	OTH
+    me	HIN
+    paise	HIN
+    acha	HIN
+    mile	HIN
+    iskey		HIN
+    liye	HIN
+    khelte	HIN
+    h	HIN
+    ye	HIN
+    log.	HIN
+    Abhi	HIN
+    auction	ENG
+    ka	HIN
+    date	ENG
+    aane	HIN
+    do	ENG
+    fir	ENG
+    dekhna	HIN
+    sb	HIN
+    form	ENG
+    me	HIN
+    hoga	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Sab	ENG
+    paise	HIN
+    ke	HIN
+    liye	HIN
+    khelte	HIN
+    hain	HIN
+    .	OTH
+    Desh		HIN
+    ki	HIN
+    kisiko	HIN
+    parva	HIN
+    nahi		HIN
+    .	OTH
+    IPL	OTH
+    mai	HIN
+    sab	HIN
+    hero	ENG
+    .	OTH
+    Dil	HIN
+    tut	HIN
+    geya	HIN
+    hai	HIN
+    aab.	HIN
+    Tum	ENG
+    logoko	HIN
+    dekhna	HIN
+    bekar	HIN
+    hai.	HIN
+    #IndianCricketTeam	OTH
+    #indiancricket	OTH
+    @BCCI	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @RVCJ_FB	OTH
+    Kyonki	HIN
+    IPL	OTH
+    me	HIN
+    dhoni	OTH
+    he	HIN
+    isliye	HIN
+    IPL	OTH
+    dekne	HIN
+    ka	HIN
+    maja	HIN
+    hi	HIN
+    alag	HIN
+    he	HIN
+    😍	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @mepratap	OTH
+    @BCCI	OTH
+    @imVkohli	OTH
+    Great	ENG
+    Bhai	HIN
+    https://t.co/9X4IXcnDeV	OTH
+    Sab	HIN
+    Ko	HIN
+    Bahut	HIN
+    Gurmi	HIN
+    Chadi	HIN
+    Hai	HIN
+    .	OTH
+    Ipl	OTH
+    Me	HIN
+    Kya	HIN
+    Hai	HIN
+    International	ENG
+    Cricket	ENG
+    Me	HIN
+    Khelo	HIN
+    Ham	HIN
+    Tumhe	HIN
+    Real	ENG
+    Superstar	ENG
+    Manege	HIN
+    .	OTH
+    Tum	HIN
+    To	HIN
+    Sirf	HIN
+    IPL	HIN
+    Ke	HIN
+    Surma	HIN
+    Ho	HIN
+    Aur	HIN
+    International	ENG
+    Ke	HIN
+    Kurma	HIN
+    .	OTH
+    Ipl	OTH
+    Ke	HIN
+    Record	ENG
+    Ko	HIN
+    Koi	HIN
+    Kutta		HIN
+    Bhi	HIN
+    Nahi	HIN
+    Puchata	HIN
+    .	OTH
+    Desh		HIN
+    Ke	HIN
+    Liye	HIN
+    Khelo	HIN
+    Nam	HIN
+    Kamao	HIN
+    Abru	HIN
+    Rakho	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @bhogleharsha	OTH
+    IPL	OTH
+    band	HIN
+    karo	HIN
+    sab	HIN
+    thhek	HIN
+    ho		HIN
+    jayega	HIN	
+    ..	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Ipl	HIN
+    he	HIN
+    khelo	HIN
+    bas	HIN
+    .	OTH
+    Afganistan	HIN
+    se	HIN
+    vi	HIN
+    nah	HIN
+    harjaye	HIN
+    jistaraka	HIN
+    form	ENG
+    hai	HIN
+    🥺🥺	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @PoonamchandCh17	OTH
+    @HumorouslyVipul	OTH
+    Yahi	HIN
+    lag	HIN
+    raha	HIN
+    tha	HIN
+    ki	HIN
+    IPL	HIN
+    ke	HIN
+    baad	HIN
+    yaha	HIN
+    tournament	ENG
+    hoga	HIN
+    pitches	ENG
+    aur	HIN
+    slow	ENG
+    ho	HIN
+    chuki		HIN
+    hogi	HIN
+    ICC	OTH
+    tournament	ENG
+    kahi	HIN
+    aur	HIN
+    hone	ENG
+    chahiye	HIN
+    ab	HIN
+    Australia	OTH
+    waala	HIN
+    exciting	ENG
+    baaki	HIN
+    SA	OTH
+    mai	HIN
+    bhi	HIN
+    2009	OTH
+    se	ENG
+    hua	HIN
+    nahi	HIN
+    waha	HIN
+    bhi	HIN
+    .	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Khatam	HIN
+    bye	ENG
+    bye	ENG
+    ...	OTH
+    Captaincy	ENG
+    gaya	HIN
+    🥳🥳	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Hmmmm	ENG
+    IPL	OTH
+    hai	HIN
+    orrr	HIN
+    Ads	ENG
+    bhi	HIN
+    hai...	HIN
+    Toh	HIN
+    tumhare	HIN
+    pass	HIN
+    abhi	HIN
+    bhi	HIN
+    mauka	HIN
+    paisa	HIN
+    hai		HIN
+    ...		OTH
+    😅😅😅	OTH
+    https://t.co/3Uy6JltLxs	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Rahul_legend3	OTH
+    Kuch		HIN
+    din	HIN
+    bad	HIN
+    saal	HIN
+    me	HIN
+    2	OTH
+    IPL	OTH
+    hoga		OTH
+    aur	HIN
+    12	OTH
+    team	ENG
+    hogi	HIN
+    aur	HIN
+    international	ENG
+    cricket	ENG
+    ko	HIN
+    khatm	HIN
+    kar	HIN
+    diya	HIN
+    jayega	HIN
+    .	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @aajtak	OTH
+    Har	HIN
+    khel	HIN
+    mein	HIN
+    har-jit	HIN
+    hain	HIN
+    .	OTH
+    India	OTH
+    har	HIN
+    gaya	HIN
+    to	HIN
+    kya	HIN
+    hua	HIN
+    ???	OTH
+    Anewala	HIN
+    din	HIN
+    mein	HIN
+    achcha	HIN
+    khelega	HIN
+    !	OTH
+    Is	HIN
+    time	ENG
+    India	OTH
+    (	OTH
+    khilario	HIN
+    )	OTH
+    ko	HIN
+    himmat	HIN
+    dilana	HIN
+    chahiye.	HIN
+    Age	HIN
+    barho	HIN
+    team	ENG
+    India	OTH
+    ,	OTH
+    hum	OTH
+    tumhara	HIN
+    sathe	HIN
+    hain.	HIN
+    Aur	HIN
+    IPL	OTH
+    har	HIN
+    saal	HIN
+    mein	ENG
+    hona	HIN
+    chahiye	HIN	
+    .	OTH
+    India	OTH
+    Long	ENG
+    live	ENG
+    ..	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @NawleshSingh18	OTH
+    @OpIndia_in	OTH
+    Bhosd	HIN
+    pappu	HIN
+    akl	HIN
+    kya	HIN
+    deewali	HIN
+    ke	HIN
+    diye	HIN
+    mein	ENG
+    jla	HIN
+    di	ENG
+    jin	HIN
+    logo	HIN
+    ki	HIN
+    to	HIN
+    baat	HIN
+    kar	HIN
+    raha	HIN
+    hai	HIN
+    agr	HIN
+    onki	HIN
+    satak	HIN
+    gai	HIN
+    to	HIN
+    raato	HIN
+    raat	HIN
+    indian	OTH
+    cricket	ENG
+    team	ENG
+    ka	HIN
+    captain	ENG
+    change	ENG
+    ho	HIN
+    jayega	HIN
+    or	HIN
+    ads	ENG
+    jo	HIN
+    tujhe	HIN
+    teri	HIN
+    gharwali	HIN
+    ki	HIN
+    wajha	HIN
+    se	HIN
+    mili	HIN
+    hai	HIN
+    wo	HIN
+    bhi	HIN
+    jaate	HIN
+    lgegi	HIN
+    ek	HIN
+    IPL	OTH
+    Trophy	ENG
+    To	HIN
+    tujhse	HIN
+    jeet	HIN
+    nhi	HIN
+    hoi	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @BCCI	OTH
+    mujhe	HIN
+    ye	HIN
+    baat	HIN
+    samajh	HIN
+    nahi	HIN
+    aai	HIN
+    ki	HIN
+    jab	HIN
+    IPL	HIN
+    me	ENG
+    kohli	HIN
+    hare	ENG
+    to	ENG
+    lot	ENG
+    lot	ENG
+    kar	HIN
+    ro	HIN
+    rahe	HIN
+    the	HIN
+    aur	HIN
+    jab	HIN
+    Pakistan	OTH
+    se	ENG
+    t20	ENG
+    wc	ENG
+    me	HIN
+    hare	HIN
+    to	HIN
+    dant	HIN
+    nipor	HIN
+    rahe	HIN
+    the	HIN
+    .	OTH
+    Iska	HIN
+    matlab	HIN
+    yahi	HIN
+    hai	HIN
+    ki	HIN
+    paisa	HIN
+    hi	HIN
+    sab	HIN
+    kuchh	HIN
+    hai	HIN
+    in	HIN
+    logo	HIN
+    k	HIN
+    liye	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @raunaknaik3	OTH
+    @traxxifyvz	OTH
+    @Sportskeeda	OTH
+    Ipl	OTH
+    nibba	HIN
+    bhag	HIN
+    yaha	HIN
+    bhosdike	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @therudraAU	OTH
+    @RVCJ_FB	OTH
+    Aur	HIN
+    jo	HIN
+    28	OTH
+    sal	HIN
+    ka	HIN
+    gap	ENG
+    tha?	HIN
+    Tab	HIN
+    to	HIN
+    nhi	HIN
+    tha	HIN
+    ipl	OTH
+    jit	HIN
+    kyu	HIN
+    nhi	HIN
+    liye	HIN
+    <emotion>  Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Ye	ENG
+    #T20WorldCup	HIN
+    boring	ENG
+    ho	ENG
+    gya	HIN
+    hai	HIN
+    ..	OTH
+    @icc		OTH
+    @BCCI	OTH
+    .	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Apna		HIN
+    #IPl	HIN
+    hi	HIN
+    theek	HIN
+    tha	HIN
+    yaar	HIN
+    ...	OTH
+    😭		OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @SameehMuhammad	OTH
+    @Markhor2023	OTH
+    @Vishi_jotwani	OTH
+    Bhai	HIN
+    IPL	OTH
+    ke	HIN
+    hero	ENG
+    Rituraj	OTH
+    Gaikwad	OTH
+    aur	HIN
+    Harsal	OTH
+    Patel		OTH
+    the	HIN
+    jinhe	HIN
+    team	ENG
+    ne	HIN
+    nahi	HIN
+    liya	HIN
+    gaya	HIN
+    !	OTH
+    Sare	ENG
+    bade	ENG
+    naam	ENG
+    ke	HIN
+    chakkar	HIN
+    ne	HIN
+    out	ENG
+    of	ENG
+    form	ENG
+    player	ENG
+    select	ENG
+    kiye	HIN
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @SameehMuhammad	OTH
+    @Markhor2023	OTH
+    @Vishi_jotwani	OTH
+    Vo	HIN
+    kya	HIN
+    hai	HIN
+    hamare	HIN
+    jo	HIN
+    din	HIN
+    hain	HIN
+    na	HIN
+    vo	HIN
+    bure	HIN
+    chal	HIN
+    rahe	HIN
+    hain	HIN
+    warna	HIN
+    wahi	HIN
+    team	ENG
+    tab	HIN
+    thi	HIN
+    jab	HIN
+    hum	HIN
+    Australia	OTH
+    ko	HIN
+    Australia	OTH
+    me	ENG
+    dho	HIN
+    ke	HIN
+    aate	HIN
+    the	HIN
+    !	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Jaspritbumrah93	OTH
+    @Dream11	OTH
+    Ab	HIN
+    break	ENG
+    le	HIN
+    le	HIN
+    Bhai	HIN
+    kisne		HIN
+    Roka		HIN
+    hai	HIN
+    or	HIN
+    kewal	HIN
+    IPL	OTH
+    khela	HIN
+    kar	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Jaspritbumrah93	OTH
+    Bhai	HIN
+    to	HIN
+    IPL	OTH
+    me	HIN
+    break	ENG
+    le	HIN
+    leta	HIN
+    na	HIN
+    or	HIN
+    desh	HIN
+    ke	HIN
+    liye	HIN
+    dhang	HIN
+    se	HIN
+    khelta	HIN
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @NigarNawab	OTH
+    Kohli	OTH
+    tu	HIN
+    afganisthan	OTH
+    se	OTH
+    jit	HIN
+    kr	HIN
+    apni	HIN
+    ijjt	HIN
+    bcha	HIN
+    le	HIN
+    tum	HIN
+    log	HIN
+    ipl	OTH
+    me	HIN
+    hi	HIN
+    khel	HIN
+    sakte	HIN
+    ho	HIN
+    bus	HIN
+    sala	HIN
+    ghamnd	HIN
+    maar	HIN
+    gya	HIN
+    tujhe	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Baki	HIN
+    Batsmans	HIN
+    khelte	HIN
+    kyun	HIN
+    hai	HIN
+    ye	HIN
+    to	HIN
+    muze	HIN
+    aaj	HIN
+    tk	HIN
+    pata	HIN
+    nahi	HIN
+    chala	HIN
+    !	ENG
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Laude	HIN
+    saale	HIN
+    sb	HIN
+    jaate	HIN
+    hai	HIN
+    aur	HIN
+    hag	HIN
+    ke	HIN
+    aate	HIN
+    hai	HIN
+    ,	OTH
+    never	ENG
+    perform	ENG
+    .		OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Rahul	OTH
+    to	HIN
+    IPL	OTH
+    ke	HIN
+    liye	HIN
+    hi	HIN
+    bana		HIN
+    hai		HIN
+    😭😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Mr_unknown23_	OTH
+    @55of37	OTH
+    @man4_cricket		OTH
+    Haan	HIN
+    Sirf	HIN
+    IPL	OTH
+    aur	HIN
+    nets	HIN
+    me	HIN
+    hi	HIN
+    kiya	HIN
+    hai	HIN
+    jo	HIN
+    kiya	HIN
+    hai	HIN
+    .	OTH
+    International	ENG
+    me	HIN
+    to	HIN
+    puri	HIN
+    tarah	HIN
+    flop	ENG
+    hai	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @vikrantgupta73	OTH
+    Vikrant	OTH
+    sir	ENG
+    india	OTH
+    ki	HIN
+    harne	HIN
+    ki	HIN
+    wajah	HIN
+    ipl	OTH
+    .	OTH
+    khiladi	HIN
+    thak	HIN
+    jate	HIN
+    hai.	HIN
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @i_am__moon_	OTH
+    Unko	HIN
+    unki	HIN
+    okaat	HIN
+    me	HIN
+    rkhna	HIN
+    tha	HIN
+    na	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @RubikaLiyaquat	OTH
+    I	ENG
+    confirmed	ENG
+    it	ENG
+    ,	OTH
+    its	ENG
+    act	ENG
+    of	ENG
+    Shirk	ENG	
+    and	ENG
+    Shirk	ENG
+    ki	HIN
+    saza	HIN
+    ,	OTH
+    saze	HIN
+    maut	HIN
+    hoti	HIN
+    hai	HIN
+    <emotion>Anger <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @pplvubot	OTH
+    tujhe	HIN
+    mera	HIN
+    ghanta	HIN
+    farak		HIN
+    padta	HIN
+    hai	OTH
+    ….	OTH
+    even	ENG
+    I	ENG
+    know	ENG
+    that	ENG
+    😭	ENG
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @This_is_RMK		OTH
+    I	ENG
+    wish	ENG
+    pata	HIN
+    hota	HIN
+    😩	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @haloscardign	OTH
+    Arre	HIN
+    mujhe	HIN
+    banani	HIN
+    aati	HIN
+    hai	HIN
+    but	ENG
+    bartan	HIN
+    dhule	HIN
+    hue	HIN
+    nahi	HIN
+    hai	HIN
+    and	ENG
+    I	ENG
+    am	ENG
+    not	ENG
+    allowed	ENG
+    to	ENG
+    wash	ENG
+    them	ENG
+    inka	HIN
+    kuch	HIN
+    stereotype	ENG
+    hai	HIN
+    ki	HIN
+    ladkiyon	HIN
+    se	HIN
+    bartan	HIN
+    nahi	HIN
+    dhulvane	HIN
+    chahiye	HIN
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @_Bonsaiii_i	OTH
+    @henitusemanor	OTH
+    @majunjuu	OTH
+    Omg	ENG
+    HAHHAAAHHA	 ENG
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Priyanka_arora9	OTH
+    @Mashal21s	OTH
+    😝😝😝	OTH
+    ...	OTH
+    Ticket	ENG
+    aur	HIN
+    popcorn	ENG
+    bhi	HIN
+    hai	HIN
+    travel	ENG
+    ke	HIN
+    liye	HIN
+    ...	OTH
+    I	ENG
+    am	ENG
+    very	ENG
+    kind	ENG
+    hearted	ENG
+    mein	ENG
+    ticket	ENG
+    ke	HIN
+    saath	HIN
+    travel	ENG
+    ke	HIN
+    liye	HIN
+    khana	HIN
+    bhi	HIN
+    deti	HIN
+    hun	HIN
+    😂😂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Now	ENG
+    I	ENG
+    need	ENG
+    kuch	HIN
+    kuch	HIN
+    hota	HIN
+    hai	HIN
+    to	ENG
+    play	ENG
+    😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @LinaDsouza1	OTH
+    Issbar	HIN
+    ka	HIN
+    editing	ENG
+    team	ENG
+    accha	HIN
+    nahi	HIN
+    hai	HIN
+    lagta	HIN
+    hai	HIN
+    kuch	HIN
+    vi	HIN
+    dikhadete	HIN
+    hai	HIN
+    kahi	HIN
+    se	HIN
+    uthakey	HIN
+    i	ENG
+    hope	ENG
+    karan	OTH
+    ka	ENG
+    accha	HIN
+    sa	ENG
+    edit	ENG
+    kare	HIN
+    bass	HIN
+    name	ENG
+    ana	ENG
+    chahiye	HIN
+    karan	OTH
+    neeti	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @juaryh1	OTH
+    I	ENG
+    know		ENG
+    socha	HIN
+    ak	HIN
+    barr	HIN
+    aur	HIN
+    baata	HIN
+    du	HIN
+    🙂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @itsmeSehrish	OTH
+    I	ENG
+    think	ENG
+    jaldi	HIN
+    @wasimakramlive	OTH
+    se	HIN
+    zaroor	HIN
+    milnay	HIN
+    wala	HIN
+    hai	HIN
+    😂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @ColorsTV	OTH
+    @ShamitaShetty	OTH
+    @VootSelect	OTH
+    @justvoot	OTH
+    Yr	ENG
+    isko	HIN
+    bahr	HIN
+    kro	HIN
+    I	ENG
+    don't	HIN
+    like	ENG
+    samita	HIN
+    pakau	HIN
+    hai,.	HIN
+    Ye	ENG
+    big	ENG
+    bos	HIN
+    me	ENG
+    ise	HIN
+    dekh	HIN
+    ke	HIN
+    lgta	HIN
+    ni	ENG
+    hai	HIN
+    ye	ENG
+    aisi	HIN
+    hai	HIN
+    ye	ENG
+    aur	HIN
+    uche	HIN
+    level	ENG
+    ki	HIN
+    drama	ENG
+    queen	ENG
+    hai.......	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    
+    
+    <tweet>
+    I	ENG
+    love	ENG
+    Shadab	OTH
+    khan	OTH
+    yar	HIN
+    🤩	OTH
+    uski	HIN
+    24	ENG
+    watt	ENG
+    ki	HIN
+    smile	ENG
+    dekh	HIN
+    k	HIN
+    dil	HIN
+    khush	HIN
+    hojata	HIN
+    hai	HIN
+    😂❤️	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @aparna326	OTH
+    Kabhi	HIN
+    kabhi	HIN
+    neend	HIN
+    lena	HIN
+    bhi	HIN
+    boriyat	HIN
+    bhara	HIN
+    hota	HIN
+    hai	HIN
+    :(	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @GustakhDil__	OTH
+    I	ENG
+    swear	ENG
+    Mein	HIN
+    aaj	HIN
+    RA	HIN
+    karthe	HIN
+    waqt	HIN
+    hi	HIN
+    soch	HIN
+    liya	HIN
+    tha	HIN
+    kuch	HIN
+    bhi	HIN
+    hojaye	HIN
+    iss	HIN
+    baar	HIN
+    baath	HIN
+    tak	HIN
+    nahi	HIN
+    karungi	HIN
+    agar	HIN
+    dost	HIN
+    maana	HIN
+    hain	HIN
+    tho	HIN
+    aake	HIN
+    baath	HIN
+    karhi	HIN
+    lenge	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @iktaaraa_	OTH
+    @Huh_Whatever_	OTH
+    Ek	HIN
+    kaam	HIN
+    karo	HIN
+    tum	HIN
+    dono	HIN
+    meko	HIN
+    dedo	HIN
+    dil	HIN
+    aapna	HIN
+    😌❤️	OTH
+    me	HIN
+    dhyaan	HIN
+    se	HIN
+    rakhungi	HIN
+    pyaar	HIN
+    se	HIN
+    ❤️	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Sanausm29042141	OTH
+    Jee	HIN
+    ,	OTH
+    hamdardi	HIN
+    batorne	HIN
+    k	HIN
+    liye	HIN
+    bas	HIN
+    ,	OTH
+    I	ENG
+    am	ENG
+    damn	ENG
+    sure	ENG
+    yeh	HIN
+    tweets	ENG
+    karte	HIN
+    waqt	HIN
+    Jo	ENG
+    bhi	HIN
+    hain	ENG
+    yeh	HIN
+    ,	OTH
+    Hans	HIN
+    rahin	HIN
+    hon	HIN
+    gee	HIN
+    ...	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Main	HIN
+    nay	HIN
+    report	ENG
+    mar	HIN
+    Diya	HIN
+    hai	HIN
+    ..	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    <tweet>
+    I	ENG 
+    am	ENG
+    happy 	ENG
+    loooool	ENG
+    😀	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    LOVE 	ENG
+    YOU	ENG
+    😘	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am	ENG
+    happy	ENG
+    our	HIN
+    mai	HIN
+    khush	HIN
+    hu	HIN
+    😅	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    very 	ENG
+    happy	ENG	
+    😂😂	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    happy	ENG
+    😊😂	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    happy	ENG
+    🙃	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    happy	ENG
+    🙂	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    happy	ENG
+    😃	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    !?	OTH
+    happy	ENG
+    😆	OTH
+    <emotion> Happiness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    Sad	ENG
+    🙁	OTH
+    <emotion> Sadness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    Sad	ENG
+    😔🙁	OTH
+    <emotion> Sadness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    Sad	ENG
+    😩	OTH
+    <emotion> Sadness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    Sad	ENG
+    😫	OTH
+    <emotion> Sadness </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    am 	ENG
+    angry	ENG
+    😡😡😡	OTH
+    <emotion> Anger </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    AM 	ENG
+    ANGRY	ENG
+    🤬	OTH
+    <emotion> Anger </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    AM 	ENG
+    ANGRY	ENG
+    😤	OTH
+    <emotion> Anger </emotion>
+    </tweet>
+    
+    <tweet>
+    I	ENG
+    AM 	ENG
+    ANGRY	ENG
+    😠	OTH
+    <emotion> Anger </emotion>
+    </tweet>
+    
+    <tweet>
+    Sab	HIN
+    engagement	ENG
+    le	HIN
+    liya	HIN
+    aate	HIN
+    kisi	HIN
+    ko	HIN
+    dil	HIN
+    se	HIN
+    support	ENG
+    nhi	HIN
+    krna	HIN
+    hota.	HIN
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @kkundrra	OTH
+    i	ENG
+    am	ENG
+    always	ENG
+    supporting	ENG
+    you	ENG
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    #TejRan	HIN
+    ek	HIN
+    aur	HIN
+    chiz	HIN
+    ...	HIN
+    woh	HIN
+    log	HIN
+    kate	HIN
+    na	HIN
+    kaate	HIN
+    ...	HIN
+    aadhe	HIN
+    tejran	HIN
+    fandom	ENG
+    ko	ENG
+    aadhe	HIN
+    kya	HIN
+    i	ENG
+    think	ENG
+    pure	HIN
+    hi	HIN
+    fandom	ENG
+    ko	HIN
+    pata	HIN
+    hai	HIN
+    aaj	HIN
+    kya	HIN
+    hua	HIN
+    hai	HIN
+    ..	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @Alien_hoi_yar	OTH
+    mujy	HIN
+    to	HIN
+    sb	HIN
+    baizat	HIN
+    krti	HIN
+    hain	HIN
+    iss	HIN
+    liye	HIN
+    yaad	HIN
+    rehti	HIN
+    hain	HIN
+    🥲	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Isha50167603	OTH
+    @kadeKiraaa	OTH
+    Waise	ENG
+    I’m	ENG
+    against	ENG
+    violence	ENG
+    but	ENG
+    Akharey	HIN
+    main	HIN
+    utha	HIN
+    utha	HIN
+    ke	HIN
+    patka	HIN
+    hai	HIN
+    Simba	HIN
+    ne	ENG
+    Umar	HIN
+    ko	ENG
+    🤣🤣	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @WtfyaarShalini	OTH
+    I	ENG
+    mean	ENG
+    mujhe	HIN
+    he	HIN
+    Hasi	HIN
+    he	HIN
+    na	HIN
+    aayi	HIN
+    bejjati	HIN
+    pr	HIN
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @BhairiShiva	OTH
+    @WaseemHayder12	OTH
+    @suhel	OTH
+    @darensammy88	OTH
+    yeh	HIN
+    ghour	HIN
+    se	HIN
+    dekh	HIN
+    kon	HIN
+    ha	HIN
+    baap	HIN
+    🤣🤣😅😂
+    jao	HIN
+    jaa	HIN
+    kr	HIN
+    ipl	ENG
+    khelo	HIN
+    beta	HIN
+    abhi	HIN
+    international	ENG
+    k	HIN
+    liye	HIN
+    tum	HIN
+    bachy	HIN
+    ho	ENG
+    https://t.co/3Xx6jLEI2g	HIN
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @kaushal_13_	OTH
+    Match	ENG
+    day	ENG
+    pe	HIN
+    bhi	HIN
+    aajkal	HIN
+    kuchh	HIN
+    khaas	HIN
+    rehti	HIN
+    nahi	HIN
+    TL	HIN
+    😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    IPL	OTH
+    ke	HIN
+    time	ENG
+    pe	HIN
+    mast	ENG
+    rehti	HIN
+    thi	HIN
+    !	OTH
+    😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @JayAlodariya_	OTH
+    Yar	HIN
+    jay	OTH
+    ye	OTH
+    wahi	HIN
+    khilari	HIN
+    sab	HIN
+    ha	HIN
+    na	HIN
+    jo	HIN
+    ipl	OTH
+    khel	HIN
+    rahe	HIN
+    the	OTH
+    ya	OTH
+    fir	OTH
+    change	ENG
+    kar	HIN
+    diya	HIN
+    gae	HIN
+    hai	HIN
+    😢	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Sab	HIN
+    paise	HIN
+    ke	HIN
+    liye	HIN
+    khelte	HIN
+    hain.	HIN
+    Desh	HIN
+    ki	HIN
+    kisiko	HIN
+    parva	HIN
+    nahi.	HIN
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    IPL	OTH
+    mai	HIN
+    sab	ENG
+    hero	ENG
+    .	OTH
+    Dil	HIN
+    tut	ENG
+    geya	HIN
+    hai	HIN
+    aab.	HIN
+    Tum	ENG
+    logoko	HIN
+    dekhna	HIN
+    bekar	HIN
+    hai.	HIN
+    #IndianCricketTeam	OTH
+    #indiancricket	OTH
+    @BCCI	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @RVCJ_FB	OTH
+    Kyonki	HIN
+    IPL	OTH
+    me	HIN
+    dhoni	OTH
+    he	HIN
+    isliye	HIN
+    IPL	OTH
+    dekne	HIN
+    ka	HIN
+    maja	HIN
+    hi	HIN
+    alag	HIN
+    he	HIN
+    😍	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @bhogleharsha	OTH
+    IPL	OTH
+    band	OTH
+    karo	HIN
+    sab	HIN
+    thhek	HIN
+    hojayega	HIN
+    ..	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @RVCJ_FB	OTH
+    He	ENG
+    is	ENG
+    mocking	ENG
+    .	ENG
+    😂😂😂	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Afganistan	OTH
+    se	HIN
+    vi	HIN
+    nah	HIN
+    harjaye	HIN
+    jistaraka	HIN
+    form	ENG
+    hai	HIN
+    🥺🥺	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    
+    <tweet>
+    @sidnaazforlif3	OTH
+    Agar	HIN
+    aisa	HIN
+    rha	HIN
+    fir	HIN
+    to	HIN
+    log	HIN
+    nam	HIN
+    lene	HIN
+    se	HIN
+    b	HIN
+    darenge	HIN
+    😭😭😭😭	OTH
+    ....	OTH
+    I	ENG
+    want	ENG
+    ki	HIN
+    Jb	HIN
+    tak	HIN
+    ye	ENG
+    duniya	HIN
+    h	HIN
+    sidharth	OTH
+    ka	HIN
+    nam	HIN
+    hmesha	HIN
+    rhe	HIN
+    hmesha	HIN
+    log	HIN
+    yad	HIN
+    rkhe	HIN
+    hmare	HIN
+    sidharth	HIN
+    ko	HIN
+    😭😭🥺	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    i	ENG
+    am	ENG
+    missing	ENG
+    her	ENG
+    very	ENG
+    badly	ENG
+    😢	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @iamluvjit	OTH
+    @iam_srkkhan	OTH
+    But	ENG
+    i	ENG
+    am	ENG
+    veg	ENG
+    totaly	ENG
+    but	ENG
+    family	ENG
+    mai	HIN
+    all	ENG
+    r	ENG
+    non	ENG
+    veg	HIN
+    so	ENG
+    banati	HIN
+    hu	HIN
+    khush	HIN
+    hoke	HIN
+    aj	HIN
+    bhi	HIN
+    banaya	HIN
+    SRK	OTH
+    Ke	HIN
+    brithday	ENG
+    party	ENG
+    ke	HIN
+    liye	HIN
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    The	ENG
+    person	ENG
+    I	ENG
+    hate	ENG
+    the	ENG
+    most	ENG
+    on	ENG
+    hoke	HIN
+    shammo	HIN
+    aunty	ENG
+    and	ENG
+    gandi	HIN
+    nali	HIN
+    ka	ENG
+    CHIMBA	OTH
+    ....	OTH
+    dono	HIN
+    colrs	ENG
+    ke	HIN
+    ladli	HIN
+    betiyan	HIN
+    hai	HIN
+    .	OTH
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @Dumdeedeedeedum	OTH
+    @_aditi_drdz	OTH
+    @DevyaniDrdz	OTH
+    @Diptidasravaldz	OTH
+    @mehakgoyel	OTH
+    @Deepali68398555	OTH
+    @i_am_samriddhi	OTH
+    @Diptidasdrdz1	OTH
+    O	HIN
+    bhai	HIN
+    sabhi	HIN
+    ka	HIN
+    bana	HIN
+    rakha	HIN
+    hai	HIN
+    kya	HIN
+    😔	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    <emotion> <\emotion>
+    <\tweet>
+    
+    <tweet>
+    I'm	ENG
+    smol	HIN
+    mjhse	HIN
+    pyar	HIN
+    se	ENG
+    baat	HIN
+    kiya	HIN
+    karo	HIN
+    pyari	HIN
+    baatein	HIN
+    kiya	HIN
+    kro	HIN
+    🤌	OTH
+    😭😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Abhi	HIN
+    sabki	HIN
+    stories	HIN
+    sun	ENG
+    k	ENG
+    i	ENG
+    want	ENG
+    one	ENG
+    too	ENG
+    but	ENG
+    strider	ENG
+    ne	HIN
+    pehle	HIN
+    din	HIN
+    chaba	HIN
+    jana	HIN
+    hai	HIN
+    sabko	HIN
+    😭	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Ok	HIN
+    so	ENG
+    i	ENG
+    got	ENG
+    my	ENG
+    stalker	ENG
+    list	ENG
+    but	ENG
+    I	ENG
+    won’t	ENG
+    share	ENG
+    kia	HIN
+    pta	HIN
+    kisi	HIN
+    ko	HIN
+    bura	HIN
+    lag	HIN
+    jai	HIN
+    aur	HIN
+    agr	HIN
+    kisi	HIN
+    ne	HIN
+    stalk	ENG
+    kia	HIN
+    bhi	HIN
+    ho	HIN
+    to	HIN
+    etna	HIN
+    mujhy	HIN
+    yaqeen	HIN
+    hai	HIN
+    tweets	ENG
+    dekhny	HIN
+    kliy	HIN
+    hi	ENG
+    stalk	ENG
+    kia	HIN
+    hoga	ENG
+    😂😂😂😂😂	OTH
+    <emotion> <\emotion>
+    <\tweet>
+    
+    <tweet>
+    afsana	HIN
+    ko	HIN
+    dekho	HIN
+    🤣🤣🤣🤣😭🤣🤣🤣	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    EVICT	ENG
+    SIMBA	OTH
+    NOW	ENG
+    <emotion> Anger <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Mausam	HIN
+    I	ENG
+    na	HIN
+    samjhi	HIN
+    ,	OTH
+    par	HIN
+    ishq	HIN
+    ko	HIN
+    tum	HIN
+    hamare	HIN
+    ....	OTH
+    @itsSSR	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Please	ENG
+    continue	ENG
+    the	ENG
+    lyrics	ENG
+    by	ENG
+    quote	ENG
+    twitting	ENG
+    it	ENG
+    ...	OTH
+    🤗☺️	OTH
+    https://t.co/CdxZOsCRHh	OTH
+    <emotion> Happiness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    @HumayraArshad	OTH
+    @AzHarsays1	OTH
+    I	ENG
+    hate	ENG
+    it	ENG
+    😭	OTH
+    when	ENG
+    someone	ENG
+    say	ENG
+    this	ENG
+    .	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+    <tweet>
+    Lykin	HIN
+    kuch	HIN
+    log	HIN
+    ...	OTH
+    khairaat	HIN
+    main	HIN
+    itna	HIN
+    khaty	HIN
+    but	ENG
+    unka	HIN
+    Weight	ENG
+    Kabhi	HIN
+    nahi	HIN
+    barhta	HIN
+    .	OTH
+    https://t.co/1VdKHzoKmp	OTH
+    <emotion> Sadness <\emotion>
+    <\tweet>
+    
+<tweet>
+I	ENG 
+am	ENG
+happy 	ENG
+loooool	ENG
+😀	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+LOVE 	ENG
+YOU	ENG
+😘	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am	ENG
+happy	ENG
+our	HIN
+mai	HIN
+khush	HIN
+hu	HIN
+😅	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+very 	ENG
+happy	ENG	
+😂😂	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+😊😂	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+🙃	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+🙂	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+happy	ENG
+😃	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+!?	OTH
+happy	ENG
+😆	OTH
+<emotion> Happiness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+🙁	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+😔🙁	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+😩	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+Sad	ENG
+😫	OTH
+<emotion> Sadness </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+am 	ENG
+angry	ENG
+😡😡😡	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+AM 	ENG
+ANGRY	ENG
+🤬	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+AM 	ENG
+ANGRY	ENG
+😤	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+I	ENG
+AM 	ENG
+ANGRY	ENG
+😠	OTH
+<emotion> Anger </emotion>
+</tweet>
+
+<tweet>
+    @ZashaHere  OTH
+    I ENG
+    wish ENG
+    tum HIN
+    ek HIN
+    Dibba HIN
+    akela HIN
+    khatam HIN
+    kardo HIN
+    mithai HIN
+    ka HIN
+    Ameen HIN
+    🤲🏻 OTH
+    </tweet>
+    
+    <tweet>
+    @emrose_ansari OTH 
+    @SinghRakeshKu14 OTH
+    @MonikaSheokand0 OTH
+    @Shaship02727231 OTH
+    @I_am_Abha66 OTH
+    @sanjanachabra OTH
+    @iamHamidulla OTH
+    @MohsinHasan92 OTH
+    @obaidkhan544 OTH
+    @ChowdhryNadeem OTH
+    मुझे HIN
+    फॉलो HIN
+    करें HIN
+    तुरंत HIN
+    फॉलो HIN
+    बैक HIN
+    पाएं। HIN
+    </tweet>
+    
+    <tweet>
+    #Unfollow_BJP OTH
+    #Unfollow_BJP_Godi_Media OTH
+    #CM_नहीं_PM_बदलो OTH
+    #IStandWithFarmers OTH
+    #नहीं_चाहिए_भाजपा OTH
+    #SaveTripuraMuslims OTH
+    #ArrestCulpritsTripurapolice OTH
+    #ShameOnTripuraPolice OTH
+    @BJP4UP OTH
+    @myogiadityanath OTH
+    P ENG
+    G ENG
+    I ENG
+    लखनऊ HIN
+    के HIN
+    पास HIN
+    एक HIN
+    पार्क HIN
+    हैं HIN
+    जिस HIN
+    का HIN
+    नाम HIN
+    प० HIN
+    दीन HIN
+    दयाल HIN
+    उपाध्यक्ष  HIN
+    हैं HIN
+    शायद HIN
+    इसे HIN
+    मा०कल्याण HIN
+    सिंह HIN
+    जी HIN
+    ने HIN
+    बनाया HIN
+    था HIN
+    जो HIN
+    बीच HIN
+    मे HIN
+    ही HIN
+    छूट HIN
+    गया HIN
+    आज HIN
+    भी HIN
+    बदहाली HIN
+    मे HIN
+    खडा HIN
+    है HIN
+    उसे HIN
+    तो HIN
+    बना HIN
+    लो HIN
+    </tweet>
+    
+    <tweet>
+    @shefali_bagga OTH
+    I ENG
+    think ENG
+    fake ENG
+    nahin HIN
+    hai HIN
+    one ENG
+    sided ENG
+    bol HIN
+    sakte HIN 
+    hai HIN
+    kyuki HIN 
+    karan HIN 
+    ke HIN 
+    taraf HIN
+    se HIN
+    zada HIN
+    hai HIN
+    but HIN 
+    teja HIN
+    ke HIN
+    taraf HIN
+    se HIN
+    zada HIN
+    friendship ENG
+    dikhti HIN
+    hai HIN
+    but ENG
+    jo HIN
+    kuch HIN
+    bhi HIN
+    ho HIN
+    dono HIN
+    saath HIN 
+    main ENG
+    achhe
+    dikhte
+    hai HIN
+    🤗 ITH
+    </tweet>
+    
+    <tweet>
+    Happiest ENG
+    bday ENG
+    to ENG
+    one ENG 
+    of ENG
+    the ENG 
+    gem ENG
+    here ENG
+    @I_am_priyanshi_ OTH
+    ❤❤💯💯 OTH
+    loads ENG
+    and ENG
+    loads ENG
+    of ENG
+    love ENG
+    to ENG
+    you ENG
+    aese HIN
+    hee HIN
+    reh HIN
+    khush HIN
+    reh HIN
+    and ENG
+    remember ENG
+    one ENG
+    thing ENG
+    u ENG
+    always ENG
+    make ENG
+    everyone ENG 
+    happy ENG
+    but ENG
+    make ENG
+    me ENG
+    more ENG
+    happier ENG
+    than ENG
+    before ENG
+    💯🥳🥳🥳 OTH
+    enjoy ENG
+    ur ENG
+    day ENG
+    to ENG
+    the ENG 
+    fullest ENG
+    meko HIN
+    mumbai HIN
+    mei HIN
+    party HIN
+    de HIN
+    aake HIN
+    </tweet>
+    
+    <tweet>
+    @tikku_pandit OTH
+    @ShilpiSinghINC OTH
+    @_Aafia__ OTH
+    ब्रिटेन HIN
+    के HIN
+    इस HIN
+    प्रमुख HIN 
+    अखबार HIN
+    मेल HIN
+    टुडे HIN
+    ने HIN
+    मोदीजी HIN
+    की HIN
+    ये HIN
+    तस्वीर HIN
+    छापते HIN
+    हुए HIN
+    लिखा HIN
+    है HIN
+    :- OTH
+    बिना HIN
+    मास्क HIN
+    लगाए HIN
+    हुए HIN
+    मोदीजी HIN
+    लगभग HIN
+    सभी HIN
+    राष्ट्राध्यक्षों HIN
+    के HIN
+    साथ HIN
+    जबरन HIN
+    गले HIN
+    पड़ते HIN
+    कैमरे HIN
+    में HIN
+    कैप्चर HIN
+    हुए HIN
+    
+    सोचिए HIN
+    केवल HIN
+    एक HIN
+    आदमी HIN
+    के HIN
+    प्रचार HIN
+    की HIN
+    भूख HIN
+    ने HIN
+    देश HIN
+    की HIN
+    साख HIN
+    को HIN
+    कितना HIN
+    गिरा HIN
+    दिया  HIN
+    है? HIN
+    https://tco/QROsCKFzeA OTH
+    </tweet>
+    
+    <tweet>
+    I ENG
+    vote ENG
+    #TheMusicVideo OTH
+    + OTH
+    #BUTTER OTH
+    at ENG
+    the ENG
+    #PCAs OTH
+    2021 OTH
+    @BTS_twt OTH
+    </tweet>
+    
+    <tweet>
+    @AMISHDEVGAN OTH
+    Pata HIN
+    nhi HIN
+    Log HIN
+    Police ENG
+    walon HIN
+    ko HIN
+    Diwali ENG
+    k HIN
+    Patake HIN
+    japt HIN
+    karne HIN
+    par HIN
+    Q HIN
+    kos HIN
+    rhe HIN
+    hai HIN
+    </tweet>
+    
+    <tweet>
+    Arey HIN
+    Bhai HIN
+    Samvidhan HIN
+    ne HIN
+    Police ENG
+    System ENG
+    banayaHIN
+    hi HIN
+    tha HIN
+    ye HIN
+    sab HIN
+    Tuchche HIN
+    kaam HIN
+    karne HIN
+    liye HIN
+    </tweet>
+    
+    <tweet>
+    Aur HIN
+    Aap HIN
+    inpar HIN
+    Aas HIN
+    lagaye HIN
+    hue HIN
+    hain HIN
+    ki HIN
+    Police ENG
+    apko HIN
+    I&amp;lamic OTH
+    Terrorism ENG
+    se HIN
+    bachayenge HIN
+    </tweet>
+    
+    <tweet>
+    Sachi HIN
+    Diwali HIN
+    tab HIN
+    Jab HIN
+    I&amp;lami OTH
+    Ravan HIN
+    mare HIN
+    </tweet>
+    
+    <tweet>
+    @ASHISHTWITTED OTH
+    नहीं HIN
+    😀 OTH
+    हमारे HIN
+    बोलने HIN
+    का HIN
+    स्टाइल HIN
+    😃 OTH
+    होत्ता HIN
+    है HIN
+    खोत्ता HIN
+    है HIN
+    🤣 OTH
+    </tweet>
+    
+    <tweet>
+    spell ENG
+    your ENG
+    name ENG
+    using ENG 
+    twdu ENG
+    character ENG
+    GO ENG
+    </tweet>
+    
+    <tweet>
+    @i_m_akhilesh OTH
+    @nawabmalikncp OTH
+    Akhilesh ENG
+    naam HIN
+    rakhne HIN
+    se HIN
+    koi HIN
+    Universe ENG
+    ka HIN
+    king ENG
+    nahi HIN
+    banjata HIN
+    mota HIN
+    bhai HIN
+    Aap HIN
+    ki HIN
+    kya HIN
+    Education ENG
+    hai? HIN
+    who ENG
+    gave ENG
+    u ENG
+    right ENG
+    to ENG
+    wrote ENG
+    on ENG 
+    twitter! ENG
+    sawaal HIN
+    toh HIN
+    banta HIN
+    hai!! HIN
+    Ha ENG 
+    ha ENG
+    ha ENG
+    </tweet>
+    
+    <tweet>
+    @tikku_pandit OTH
+    @ShilpiSinghINC OTH
+    @_Aafia__ OTH
+    जिगरा HIN
+    चाइये HIN
+    गले HIN
+    लगाने HIN
+    के HIN
+    लिए HIN
+    भी HIN
+    वरना HIN
+    फुरसतिये HIN
+    जैसे HIN
+    हर HIN
+    किसी HIN
+    के HIN
+    गले HIN
+    पड़ना HIN
+    भी HIN
+    सही HIN
+    नही HIN
+    ,,माना HIN
+    इज्जत HIN
+    मोई HIN
+    जी HIN
+    की HIN
+    नही HIN
+    लेकिन HIN
+    देश HIN
+    को HIN
+    तो HIN
+    है HIN
+    😂 OTH
+    </tweet>
+    
+    <tweet>
+    @i_Zainabb OTH
+    Smjhao HIN
+    na HIN
+    HindiHIN
+    Mai😕😭😭😂 OTH
+    </tweet>
+    
+    <tweet>
+    @I_Am_MrJr OTH 
+    Yeh HIN
+    hota HIN
+    kia HIN
+    hy HIN
+    bhai? HIN
+    </tweet>
+    
+    <tweet>
+    @I_stan_proteas OTH
+    Pehle HIN
+    newspaper ENG
+    me HIN
+    padhta HIN
+    tha HIN
+    kuch HIN
+    shi HIN
+    bhi HIN
+    hue HIN
+    but ENG
+    jyadatar HIN
+    ghalat HIN
+    😹 OTH
+    </tweet>
+    
+    <tweet>
+    @maslakyahaii OTH
+    i ENG
+    do ENG
+    go ENG
+    out ENG
+    lekin HIN
+    esi HIN
+    jagaha HIN
+    nahin HIN
+    jahan HIN
+    zaroorat HIN
+    parhay HIN
+    </tweet>
+    
+    <tweet>
+    @WahabViki OTH
+    @falamb3 OTH
+    @wasimakramlive OTH
+    I ENG
+    agree ENG 
+    @wasimakramlive OTH
+    bhai OTH
+    </tweet>
+    
+    <tweet>
+    Sekho HIN
+    Wasim HIN
+    Bhai HIN
+    se HIN
+    🙄 OTH
+    </tweet>
+    
+    <tweet>
+    @Ziddi_Rumi OTH
+    @Aayat51 OTH
+    @humble_farha_ HINOTH
+    @NehaKha44398253 OTH
+    @KhadijaNoor_ OTH
+    @naazfatima77 OTH
+    @17Shaikhfarha OTH
+    @Nazreen_00 OTH
+    @i_Tha_kurain OTH
+    @SNaz86635426 OTH
+    @Neha9576 OTH
+    अपनी HIN
+    पिक्चर HIN
+    कहा HIN
+    है HIN
+    तुम्हारी HIN
+    Rumaisa HIN 
+    Anam ENG
+    </tweet>
+    
+    <tweet>
+    I ENG
+    dont ENG
+    have ENG
+    an ENG
+    attitude ENG
+    problem, ENG
+    but ENG
+    i ENG
+    believe ENG
+    Jhuko HIN
+    wahi HIN
+    jaha HIN
+    kisi HIN
+    ke HIN
+    dil HIN
+    mein HIN
+    kisi HIN
+    ko HIN
+    jhukane HIN
+    ki HIN
+    jidd HIN
+    na HIN
+    ho HIN
+    </tweet>
+    
+    <tweet>
+    @Meet87680419 OTH
+    I ENG
+    think HIN
+    mujhy HIN
+    bhi HIN
+    yahi HIN
+    lagta HIN
+    hai HIN
+    kya HIN
+    yaar HIN
+    Teja HIN
+    Avoid ENG
+    task ENG
+    abhi HIN
+    bhi HIN
+    dimaag ENG
+    m HIN
+    chal HIN
+    reha HIN
+    hai HIN
+    just ENG
+    forget ENG
+    it ENG
+    yaar ENG
+    It's ENG
+    just ENG
+    a ENG
+    task ENG
+    </tweet>
+    
+    <tweet>
+    @alauddin_khil_G OTH
+    🤦‍♀️🤦‍♀️Kuch OTH
+    nhiiii OTH
+    </tweet>
+    
+    <tweet>
+    @iglesiasnuras OTH
+    Ap HIN
+    mjy HIN
+    i ENG
+    phone ENG
+    deden HIN
+    phr HIN
+    ni HIN
+    hogi🥰🥰 OTH
+    </tweet>
+    
+    <tweet>
+    @I_Am_OK_U_R_OK OTH
+    @MeghBulletin OTH
+    बुजुर्ग HIN
+    खलीफा HIN
+    😂 OTH
+    </tweet>
+    
+    <tweet>
+    Happy ENG
+    birthday ENG
+    @I_am_priyanshi_ OTH
+    </tweet>
+    
+    
+    <tweet>
+    My ENG
+    God ENG
+    bless ENG
+    you ENG
+    with ENG 
+    all ENG
+    the ENG
+    love, ENG
+    happiness ENG
+    and ENG
+    success ENG
+    You ENG
+    are ENG
+    like ENG
+    my ENG
+    choti HIN
+    sister ENG
+    Please ENG
+    take ENG
+    care ENG
+    and ENG
+    ache HIN
+    se HIN
+    party HIN
+    Krna HIN
+    and ENG
+    enjoy ENG
+    krna HIN
+    ❤️ OTH
+    https://tco/NTCgI9aN8G OTH
+    </tweet>
+    
+    <tweet>
+    @sailorsmoon OTH
+    hamari HIN
+    toh HIN
+    fati HIN
+    rehti HIN
+    thi HIN
+    ghar HIN
+    ke HIN
+    upar HIN
+    se HIN
+    jump HIN
+    markeHIN
+    na HIN
+    aajaye HIN
+    kahi HIN
+    woh HIN
+    i ENG
+    used ENG
+    to ENG
+    lock ENG
+    the ENG
+    doors ENG
+    hah HIN
+    </tweet>
+    
+    <tweet>
+    @flawsome_guy OTH
+    Bhai HIN
+    pehle HIN
+    tag ENG
+    karo HIN
+    usko(@smritiirani) OTH
+    🤬 OTH
+    </tweet>
+    
+    <tweet>
+    And ENG
+    here ENG
+    mey HIN
+    thir HIN
+    chala HIN
+    rahe HIN
+    ho HIN
+    </tweet>
+    
+    <tweet>
+    @BeingSalmanKhan OTH
+    @iamsrk OTH
+    Bhai HIN
+    ♥ OTH
+    Bhai HIN
+    ♥ OTH
+    </tweet>
+    
+    <tweet>
+    @WorldWaohr OTH
+    @CMHelpline1076 OTH
+    @RahulGandhi OTH
+    @Mayawati OTH
+    @ChiefSecyUP OTH
+    @DcpCrimeKanpur OTH
+    खुद HIN
+    थाना HIN
+    प्रभारी HIN
+    झूठी HIN
+    fir HIN
+    लिखाने HIN
+    के HIN
+    लिए HIN
+    महिलाओं HIN
+    को HIN
+    आगे HIN
+    करने HIN
+    की HI
+    सलाह HIN
+    देते HIN
+    है HIN
+    थाना HIN
+    प्रभारी  HIN
+    व HIN
+    एसआई HIN
+    मैथिलीशरण HIN
+    का HIN
+    अपराधियों HIN
+    से HIN
+    काफी HIN
+    अच्छा HIN
+    दोस्ताना HIN
+    है HIN
+    जिसको HIN
+    आप HIN
+    माती HIN
+    कोट HIN
+    मे HIN
+    जाकर HIN
+    पता HIN
+    कर HIN
+    सकते HIN
+    है HIN
+    अपराध HIN
+    संख्या HIN
+    641/21 OTH
+    इसमे HIN
+    कितने HIN
+    अभियुक्तों HIN
+    के HIN
+    नाम HIN
+    है HIN
+    कई HIN
+    बार HIN
+    मांगने HIN
+    के HIN
+    बाद HIN 
+    30/10/21 OTH
+    को HIN
+    रिपोर्ट HIN
+    </tweet>
+    
+    <tweet>
+    @aajtak OTH
+    चलते HIN
+    फिरते HIN
+    कार्टून HIN
+    की HIN
+    क्या HIN
+    जरूरत HIN
+    की HIN
+    उन्हें HIN
+    कार्टून HIN
+    बनाया HIN
+    जाए HIN
+    😂😂 OTH
+    </tweet>
+    
+    <tweet>
+    @i_am_congressii OTH
+    @ShilpiSinghINC OTH
+    @_Aafia__ OTH 
+    इतनी HIN
+    बेइज्जती HIN
+    करवाने HIN
+    के HIN
+    बाद HIN 
+    भी HIN 
+    इस HIN
+    दिमागीया HIN
+    दिवालीये HIN
+    गले HIN
+    पड़ने HIN
+    वाले HIN
+    मुर्ख, HIN
+    मंद HIN
+    बुद्धि HIN
+    के HIN
+    तलवे HIN
+    चाटने HIN
+    वाले HIN
+    मुर्ख HIN
+    चमचों HIN
+    को HIN
+    दिमाग HIN
+    का HIN
+    इलाज HIN
+    करवाना HIN
+    चाहिए HIN
+    😜😝 OTH
+    https://tco/IG2VcwxFAC OTH
+    </tweet>
+    
+    <tweet>
+    @K_a_m_i OTH
+    Meri HIN
+    bhi HIN
+    15 OTH
+    ko HIN
+    h🥺 OTH
+    </tweet>
+    
+    <tweet>
+    @i_fateh_ OTH
+    खोत्ता? HIN
+    मतलब HIN
+    गधा HIN
+    ? OTH
+    😢 OTH
+    
+    I'm ENG
+    Not
+    Ati ENGf
+    Aslam ENG
+    But ENG
+    
+    Har HIN
+    Dua HIN
+    May HIN
+    Shaamil HIN
+    Tera HIN
+    Piyaar HIN 
+    Hai, HIN
+    
+    Bin HIN
+    Tere HIN
+    Ab HIN
+    Lamha HIN
+    Dushwaar HIN
+    Hai HIN
+    🥺❤️ OTH
+    
+    @Huh_Whatever_ OTH
+    Abe HIN
+    dekh HIN
+    liya HIN
+    😂🤣 OTH
+    
+    @SardaSsrian OTH
+    @jorajetley OTH
+    @Vandanaoz OTH
+    @neethu_sony OTH
+    @PhotonSupport OTH
+    @Nisha44714713 OTH
+    @MamataP64733713 OTH
+    @s_mamta9 OTH
+    @BH_Piyali OTH
+    @JusticeSSR1406 OTH
+    @janisarSSR_2021 OTH
+    @Nyay4SSR OTH
+    @geet_ssrforever OTH 
+    @Unfinished011 OTH
+    @SanjitForAll OTH
+    @nishac12300 OTH
+    @divyanand217 OTH
+    @SruthiDas6 OTH
+    @AadilYo49207160  OTH
+    @NibinTh25460806 OTH
+    @MannyNotBoT1 OTH
+    @blacksheep_119 OTH
+    @I_Am_Sushant_1 OTH
+    @Jannat_Firdouse OTH
+    @AnuJain22213023 OTH
+    @BinaRai88937137 OTH
+    @Bhavna080808 OTH
+    @Priya80167535 OTH
+    @prankya OTH
+    @raman_lalita OTH
+    @SharonDN1 OTH
+    @FatimaZ53524989 OTH
+    @itsSSR OTH
+    Har HIN
+    taraf HIN
+    Sushant ENG
+    Hi HIN
+    Sushant ENG
+    Kyon HIN
+    ki HIN
+    </tweet>
+    
+    <tweet>
+    Sabse HIN
+    Badhkar HIN
+    Sushant ENG
+    🔱 OTH
+    https://tco/CJXtonNmfd OTH
+    </tweet>
+    
+    <tweet>
+    @LynnGift03 OTH
+    @_N_i_g_e_l OTH
+    @bismarckerisah OTH
+    @Iamturyamusiima OTH
+    @__Mbuga OTH
+    @jukaowen OTH
+    Unadhani HIN
+    juu HIN
+    nakaa HIN 
+    poor HIN
+    ntaogopa HIN
+    pua HIN
+    yako? HIN
+    </tweet>
+    
+    <tweet>
+    @I_stan_proteas OTH
+    Celeb HIN
+    abhi HIN
+    blue ENG
+    tick ENG
+    aayi HIN
+    thi,jaise HIN
+    hi HIN
+    ss HIN
+    lena HIN
+    chaha HIN
+    hat HIN
+    gya HIN
+    😪 OTH
+    </tweet>
+    
+    <tweet>
+    @BJPVaidic_Renu OTH
+    @S__R_TiW OTH
+    @Kangana500 OTH
+    @IAMASHISHKP86 OTH
+    @I_M_YOGI96 OTH
+    @Dharmen13311208 OTH
+    @DEVRAJ61404687 OTH
+    @DevinderBJP OTH
+    @Anu_pandit137 OTH
+    @anshuy94 OTH
+    जय HIN
+    श्री HIN
+    राम HIN
+    ।।।। OTH
+    </tweet>
+    
+    <tweet>
+    @iamkamyapunjabi OTH
+    @UmarRiazOficial ITH
+    @ColorsTV OTH
+    @iamkamyapunjabi OTH
+    mam ENG
+    apne HIN
+    Dusre HIN
+    Umar HIN
+    ko HIN
+    tag ENG
+    kar HIN
+    diya HIN
+    hai HIN
+    Jiska HIN
+    biggboss ENG
+    se HIN
+    koi HIN
+    nata HIN
+    nhi HIN
+    hai HIN
+    real ENG
+    I'd ENG
+    yeah HIN
+    hai HIN
+    @realumarriaz OTH
+    </tweet>
+    
+    <tweet>
+    I ENG
+    am ENG
+    confused ENG
+    #TejasswiPrakash OTH
+    ko HIN
+    gussa HIN
+    Task ENG
+    se HIN
+    Out ENG
+    hojane HIN
+    ke HIN
+    liye HIN
+    aay HIN
+    tha HIN
+    yah HIN
+    isliye HIN
+    Kyun HIN
+    ki HIN
+    #ShamitaShetty OTH
+    ne HIN
+    out HIN
+    kiya HIN
+    isliye HIN
+    🤔 OTH
+    </tweet>
+    
+    <tweet>
+    #Biggboss15 OTH
+    All ENG
+    I ENG
+    know ENG
+    is ENG
+    gham HIN
+    e HIN
+    ashiqi HINJ
+    Tera HIN
+    shukria HIN
+    hum HIN
+    kahan HIN
+    kahan HIN
+    say HIN
+    guzar HIN
+    gaye HIN
+    </tweet>
+    
+    <tweet>
+    @ASHISHTWITTED OTH
+    हम HIN
+    डबल HIN
+    त HIN
+    वाली HIN
+    बोली HIN
+    हैं HIN
+    जी HIN
+    खोत्ता HIN
+    है HIN
+    😃😃 OTH
+    </tweet>
+    
+    <tweet>
+    @_khushi98 OTH
+    Nahi HIN
+    I ENG
+    meant ENG
+    srk ENG
+    ke HIN
+    songs ENG
+    ki HIN
+    space ENG
+    chal HIN
+    rahi HIN
+    hai HIN
+    usme HIN
+    😂🙈 OTH
+    </tweet>
+    
+    <tweet>
+    @iam_a_d_i_t_i_ OTH
+    Maine HIN
+    bh HIN
+    video HIN
+    dekh HIN
+    ke HIN
+    confirm ENG
+    kiya HIN
+    tb HIN
+    hi HIN
+    tweet ENG
+    kiya HIN
+    Dekh HIN
+    lo HIN
+    maine HIN
+    bhej HIN
+    diya HIN
+    h HIN
+    💕 OTH
+    </tweet>
+    
+    <tweet>
+    i ENG
+    want ENG
+    them ENG
+    to ENG 
+    play ENG
+    tujh HIN
+    mein HIN
+    rab HIN
+    dikhta HIN
+    hai HIN
+    🥺 OTH
+    </tweet>
+    
+    <tweet>
+    @Sushanjana47 OTH
+    @suniketroy OTH
+    Bhai HIN
+    bengali HIN
+    hai HIN 
+    I ENG
+    think ENG
+    </tweet>
+    
+    <tweet>
+    @ColorsTV OTH
+    @realumarriaz OTH
+    @SimbaNagpal7 OTH
+    @BeingSalmanKhan OTH
+    @ColorsTV OTH
+    @VootSelect OTH
+    are ENG
+    EXPOSED ENG
+    BHAI HIN
+    ITNE HIN
+    NALLE HIN
+    HAI HIN
+    YEH HIN
+    LOG HIN
+    THEEK HIN
+    SE HIN
+    EDIT ENG
+    BHI HIN
+    KARNE HIN
+    NAHI HIN
+    ATE HIN
+    CHUT*YE HIN
+    LOG HIN
+    VIDEO ENG
+    VIRAL ENG
+    AAJ HIN
+    SHAAM HIN
+    SE HIN
+    HUA HIN
+    HAI HIN
+    #JusticeForUmarRiaz OTH
+    HI HIN
+    ISLIYE HIN
+    TREND ENG
+    HO HIN
+    RAHA HIN
+    HAII HIN
+    WONDER ENG
+    HOW ENG
+    THEY ENG
+    MAY ENG
+    HAVE ENG
+    TREATED ENG
+    @imrealasim OTH
+    </tweet>
